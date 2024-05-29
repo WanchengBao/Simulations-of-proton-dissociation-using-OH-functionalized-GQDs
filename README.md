@@ -7,6 +7,7 @@ Supporting information for: “Accelerated proton dissociation in excited state 
 **Structures**
 
 The models of graphene oxide created in this work are found in the [model/structure_dft_opt](https://github.com/baowanc/proton/tree/main/model/structure_dft_opt) directory. As in the paper, 7 models of each type were created. For each model, we provide coordinates in an xyz file (in XYZ format).
+
 The models were then hydrated by adding H2O molecules, the resulting models are found in the [model/structure_water](https://github.com/baowanc/proton/tree/main/model/structure_water) directory. 
 
 
