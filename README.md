@@ -1,4 +1,4 @@
-# proton
+# Simulations-of-proton-dissociation-using-OH-functionalized-GQDs
 
 Supporting information for: “Accelerated proton dissociation in excited state induces super-acidic microenvironment of graphene quantum dots”
 
