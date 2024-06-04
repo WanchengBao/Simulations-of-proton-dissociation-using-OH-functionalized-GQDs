@@ -24,9 +24,7 @@ The trajectories report the atomic positions at each time step, in XYZ format, v
 The bader charge calculation performed by [bader](https://theory.cm.utexas.edu/henkelman/code/bader/)
 
 
-###########################################
-######### System Requirements #############
-###########################################
+#################################################### System Requirements ########################################################
 
 The software performs well on any Linux Distribution. It was tested in OpenSuse and Centos frameworks. Windows users are recommended using a virtual emulation of Linux, for example any version of Ubuntu.
 
@@ -35,9 +33,7 @@ Running time may vary between minutes and days depending on the problem to be so
 Note: Some programs were only testet on large supercomputers and might consume too much memory for your device.
 
 
-###########################################
-######## General Code structure ###########
-###########################################
+################################################### General Code structure ######################################################
 
 Input:
 
